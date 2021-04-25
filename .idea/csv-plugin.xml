@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\cogs\errors.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\ping pong\main.py">
           <value>
             <Attribute>
